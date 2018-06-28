@@ -6,7 +6,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Zebrie Systems<br><strong>Telecoms Partner</strong>
-  content: We are an integrator who helps consult in telecoms.
+  content: We are an integrator who helps consult in Telecoms.
   cta:
     enabled: false
     url: ''
