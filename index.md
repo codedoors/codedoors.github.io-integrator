@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2018-06-28 00:00:00 +0100
+date: 2018-06-27 23:00:00 +0000
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
@@ -12,7 +12,7 @@ page_sections:
     url: ''
     button_text: ''
   image:
-    image: ''
+    image: "/uploads/2018/06/28/night.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
@@ -39,10 +39,6 @@ page_sections:
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
