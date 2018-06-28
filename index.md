@@ -5,7 +5,7 @@ date: 2018-06-27 23:00:00 +0000
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
-  headline: Zebrie Systems<br><strong>Telecoms Partner  III</strong>
+  headline: Zebrie Systems<br><strong>Telecoms Partner</strong>
   content: We are an integrator who helps consult in Telecoms.
   cta:
     enabled: false
