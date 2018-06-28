@@ -22,7 +22,7 @@ page_sections:
     class="light">We help you grow.</span>
   content: Contact us to scope a custom approach to solving your challenges
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: ''
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
