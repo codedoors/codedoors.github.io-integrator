@@ -12,7 +12,7 @@ page_sections:
     url: ''
     button_text: ''
   image:
-    image: "/uploads/night.jpg"
+    image: "/uploads/street.jpg"
     alt_text: Product Shot
   background_image: "/uploads/hero-2-bg.png"
 - template: content-feature
