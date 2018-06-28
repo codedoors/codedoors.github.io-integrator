@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2018-06-28 00:00:00 +0100
+date: 2018-06-27 23:00:00 +0000
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
@@ -12,7 +12,7 @@ page_sections:
     url: ''
     button_text: ''
   image:
-    image: ''
+    image: "/uploads/2018/06/28/night.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
