@@ -45,7 +45,7 @@ page_sections:
   content: Want to reach out? Leave your email address and we will be in touch.
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎ © 2018 Zebrie. All Rights Reserved.
+  content: "© 2018 Zebrie. All Rights Reserved."
 ---
 
 foo bar
