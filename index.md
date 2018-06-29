@@ -3,6 +3,9 @@ layout: blocks
 title: Homepage
 date: 2018-06-27 23:00:00 +0000
 page_sections:
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/logozebrie.PNG"
 - template: hero-banner-w-image
   block: hero-2
   headline: Zebrie Systems<br><strong>Telecoms Partner</strong>
