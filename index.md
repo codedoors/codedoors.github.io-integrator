@@ -35,7 +35,7 @@ page_sections:
     alt_text: Custom
 - template: 1-column-text
   block: one-column-1
-  headline: We're always looking to work with smart talents
+  headline: We're always looking to work with smart people
   content: You can find our vacancies on AngelList.<br><a href="https://angel.co/zebrie/jobs"
     title="Vacancies at Zebrie">Vacancies at Zebrie</a><br><br>
 - template: signup-bar
