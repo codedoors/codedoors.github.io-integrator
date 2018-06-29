@@ -40,7 +40,7 @@ page_sections:
     title="Vacancies at Zebrie">Vacancies at Zebrie</a><br><br>
 - template: signup-bar
   block: cta-bar
-  email_recipient: pamorais.news@gmail.com
+  email_recipient: pleaserespond@zebrie.com
   content: Want to reach out? Leave your email address and we will be in touch.
 - template: simple-footer
   block: footer-1
