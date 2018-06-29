@@ -42,6 +42,7 @@ page_sections:
 - template: signup-bar
   block: cta-bar
   email_recipient: celebys@gmail.com
+  content: Want to reach out? Leave your email address and we will be in touch.
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎ © 2018 Zebrie. All Rights Reserved.
