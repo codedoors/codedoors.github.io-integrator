@@ -2,7 +2,7 @@ title: Zebrie
 author: Pat
 description: "Your Telco partner"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.zebtrie.com" # your site's origin, e.g. https://forestry.io
+url: "https://www.zebrie.com" # your site's origin, e.g. https://forestry.io
 
 # Build settings
 defaults:
