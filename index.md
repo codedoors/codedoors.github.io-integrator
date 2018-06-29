@@ -31,7 +31,7 @@ page_sections:
     </span>integrate with your existing team or we put together our own team.
   content: Total flexibility to serve your needs.
   media:
-    image: ''
+    image: "/uploads/manybirds.jpg"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
