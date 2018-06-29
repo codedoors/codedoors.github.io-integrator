@@ -39,6 +39,9 @@ page_sections:
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
+- template: signup-bar
+  block: cta-bar
+  email_recipient: celebys@gmail.com
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎ © 2018 Zebrie. All Rights Reserved.
