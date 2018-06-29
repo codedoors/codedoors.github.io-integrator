@@ -32,7 +32,7 @@ page_sections:
   content: Total flexibility to serve your needs.
   media:
     image: "/uploads/manybirds.jpg"
-    alt_text: Customize Blocks
+    alt_text: Custom
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
