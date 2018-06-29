@@ -20,7 +20,7 @@ page_sections:
   media_alignment: Left
   headline: <strong>Swap &amp; Switch your resources.<span class="light"> </span></strong><span
     class="light">We help you grow.</span>
-  content: Contact us to scope a custom approach to solving your challenges
+  content: Contact us to scope a custom approach to solving your challenges.
   media:
     image: "/uploads/birdonwire.jpg"
     alt_text: Resources
