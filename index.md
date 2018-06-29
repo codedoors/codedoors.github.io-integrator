@@ -37,7 +37,7 @@ page_sections:
   block: one-column-1
   headline: We're always looking to work with smart talents
   content: You can find our vacancies on AngelList.<br><a href="https://angel.co/zebrie/jobs"
-    title="Vacancies at Zebrie">https://angel.co/zebrie/jobs</a><br><br>
+    title="Vacancies at Zebrie">Vacancies at Zebrie</a><br><br>
 - template: signup-bar
   block: cta-bar
   email_recipient: celebys@gmail.com
