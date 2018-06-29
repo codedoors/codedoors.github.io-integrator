@@ -22,7 +22,7 @@ page_sections:
     class="light">We help you grow.</span>
   content: Contact us to scope a custom approach to solving your challenges
   media:
-    image: ''
+    image: "/uploads/birdonwire.jpg"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
@@ -41,7 +41,7 @@ page_sections:
     create new sites and make them fully customizable. \U0001F447"
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Hello world! ❤︎ © 2018 Zebrie. All Rights Reserved.
 ---
 
 foo bar
