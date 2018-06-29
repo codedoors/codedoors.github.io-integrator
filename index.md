@@ -13,7 +13,7 @@ page_sections:
     button_text: ''
   image:
     image: "/uploads/bird.jpg"
-    alt_text: Product Shot
+    alt_text: Partner
   background_image: "/uploads/hero-2-bg.png"
 - template: content-feature
   block: feature-1
