@@ -23,7 +23,7 @@ page_sections:
   content: Contact us to scope a custom approach to solving your challenges
   media:
     image: "/uploads/birdonwire.jpg"
-    alt_text: uBuild Blocks Mock-Up
+    alt_text: Partner
 - template: content-feature
   block: feature-1
   media_alignment: Right
