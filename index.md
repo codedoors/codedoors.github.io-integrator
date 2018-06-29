@@ -41,7 +41,7 @@ page_sections:
     create new sites and make them fully customizable. \U0001F447"
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Hello world! ❤︎ © 2018 Zebrie. All Rights Reserved.
 ---
 
 foo bar
