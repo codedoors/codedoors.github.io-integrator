@@ -23,7 +23,7 @@ page_sections:
   content: Contact us to scope a custom approach to solving your challenges
   media:
     image: "/uploads/birdonwire.jpg"
-    alt_text: Partner
+    alt_text: Resources
 - template: content-feature
   block: feature-1
   media_alignment: Right
