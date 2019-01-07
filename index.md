@@ -47,7 +47,9 @@ page_sections:
   content: Want to reach out? Leave your email address and we will be in touch.
 - template: simple-footer
   block: footer-1
-  content: "© 2017-2018 Zebrie. All Rights Reserved."
+  content: © 2018&lt;script&gt;new Date().getFullYear()&gt;2018&amp;&amp;document.write("-"+new
+    Date().getFullYear());&lt;/script&gt;. All Rights Reserved.
+
 ---
 
 foo bar
