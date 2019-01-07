@@ -47,7 +47,7 @@ page_sections:
   content: Want to reach out? Leave your email address and we will be in touch.
 - template: simple-footer
   block: footer-1
-  content: ''
+  content: © 2018<script>new Date().getFullYear()>2018&&document.write("-"+new Date().getFullYear());</script> Zebrie . All Rights Reserved.
 
 ---
 
