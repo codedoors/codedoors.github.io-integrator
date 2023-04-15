@@ -6,7 +6,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Zebrie Labs
-  content: We are an integrator who helps consult in Telecoms.
+  content: Building mode ON.
   cta:
     enabled: false
     url: ''
