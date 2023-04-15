@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/logozebrietransparent.png"
 - template: hero-banner-w-image
   block: hero-2
-  headline: Zebrie Systems<br><strong>Telecoms Partner</strong>
+  headline: Zebrie Labs
   content: We are an integrator who helps consult in Telecoms.
   cta:
     enabled: false
