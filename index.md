@@ -41,7 +41,7 @@ page_sections:
     create new sites and make them fully customizable. \U0001F447"
 - template: simple-footer
   block: footer-1
-  content: © 2018<script>new Date().getFullYear()>2018&&document.write("-"+new Date().getFullYear());</script> Zebrie . All Rights Reserved.
+  content: © <script>new Date().getFullYear()>document.write("-"+new Date().getFullYear());</script> Zebrie . All Rights Reserved.
 ---
 
 foo bar
