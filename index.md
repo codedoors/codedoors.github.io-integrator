@@ -21,10 +21,10 @@ page_sections:
 - template: signup-bar
   block: cta-bar
   email_recipient: pleaserespond@zebrie.com
-  content: Want to reach out? Leave your email address and we will be in touch.
+  content: Want to be kept updated on our progress? Leave your email address and we will be in touch.
 - template: simple-footer
   block: footer-1
-  content: © <script>new Date().getFullYear()>2018&&document.write("-"+new Date().getFullYear());</script> Zebrie . All Rights Reserved.
+  content: © <script>new Date().getFullYear()>2018&&document.write(new Date().getFullYear());</script> Zebrie . All Rights Reserved.
 
 ---
 
