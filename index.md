@@ -18,6 +18,18 @@ page_sections:
     image: "/uploads/bird.jpg"
     alt_text: Partner
   background_image: "/uploads/hero-2-bg.png"
+- template: signup-bar
+  block: cta-bar
+  email_recipient: pleaserespond@zebrie.com
+  content: Want to reach out? Leave your email address and we will be in touch.
+- template: simple-footer
+  block: footer-1
+  content: © <script>new Date().getFullYear()>2018&&document.write("-"+new Date().getFullYear());</script> Zebrie . All Rights Reserved.
+
+---
+
+foo bar
+
 <!-- - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -41,14 +53,3 @@ page_sections:
   headline: We're always looking to work with smart people.
   content: You can find our vacancies on AngelList.<br><a href="https://angel.co/zebrie/jobs"
     title="Vacancies at Zebrie">Vacancies at Zebrie</a><br><br> -->
-- template: signup-bar
-  block: cta-bar
-  email_recipient: pleaserespond@zebrie.com
-  content: Want to reach out? Leave your email address and we will be in touch.
-- template: simple-footer
-  block: footer-1
-  content: © <script>new Date().getFullYear()>2018&&document.write("-"+new Date().getFullYear());</script> Zebrie . All Rights Reserved.
-
----
-
-foo bar
