@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Zebrie
 date: 2018-06-27 23:00:00 +0000
 page_sections:
 - template: navigation-header
